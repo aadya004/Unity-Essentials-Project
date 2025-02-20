@@ -1,0 +1,4 @@
+repository "Essentials Project 2025-02-01_22-38-40/Essentials Project@13469792318034@cloud"
+  path "/"
+    br "/main"
+    co "/main"
